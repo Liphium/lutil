@@ -1,4 +1,4 @@
-module github.com/Liphium/logger
+module github.com/Liphium/lutil
 
 go 1.27
 
